@@ -1,6 +1,6 @@
 num = [1,2,3,4,5]
 fruits = ['Manzanas','Naranjas','Uvas','Peras']
-
+#Segundo dia
 #Crear una lista, usando constructor
 num2 = list((1,2,3,4,5))
 print(num,fruits)
