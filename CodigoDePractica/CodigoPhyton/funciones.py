@@ -12,6 +12,7 @@ decirhola()
 def suma(num1,num2):
 	total= num1+num2
 	return str(total)+' este numero es el resultado'
+
 suma(2,3)
 print(suma(2,3), type(suma(2,3)))
 
