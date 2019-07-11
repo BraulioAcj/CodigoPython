@@ -3,7 +3,7 @@
 import numpy as np
 
 #importing from scikit-learn
-from sklearn import fatasets, linear_model
+from sklearn import datasets, linear_model
 
 #load dataset
 house_price = [245,321,279,308,199,219,405,324,319,255]
